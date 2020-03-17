@@ -1,4 +1,4 @@
-# Cloud Computing: Overall Lab Instruction
+## Cloud Computing: Overall Lab Instruction
 
 <!--**This is the repo containing all the lab materials for undergraduate course CS06142 "Cloud Computing Techniques" at Hunan University**--> 
 
@@ -53,7 +53,7 @@ To make your program portable, try your best to only use standard & widely avail
 
 Grading details are specified in each lab's instruction document, please carefully read them [Lab1](Lab1/README.md), [Lab2](Lab2/README.md), [Lab3](Lab3/README.md), [Lab4](Lab4/README.md).
 
-Besides, we have the following 3 overall grading requirements applicable to all the 4 labs:
+Besides, we have the following 3 overall  grading requirements applicable to all the 4 labs:
 
 1. **DO NOT copy** others' code (either from the Internet or from your classmates), otherwise your group (every member and the leader) will got **zero point** in the lab. However, we encourage to communicate with other group and learn from each other. But do remember to write the code yourself and not copy.
 2. **DO NOT miss the deadline**, otherwise your group (every member and the leader) points will be reduced accordingly.
